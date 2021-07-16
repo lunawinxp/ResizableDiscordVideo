@@ -1,7 +1,7 @@
 # ResizableDiscordVideo
 Makes the Discord mini player/video (Picture-in-Picture) window for video calls resizable.
 Ever wanted to watch someones screen bigger than the default PiP window size, but still be able to type/use Discord?
-I could not find a plugin that solves this issue so, so I made this really quickly, hope this is useful to someone, as it was to me!
+I could not find a plugin that solves this issue so, so I made this really quickly, hope this is useful to someone, as it was to me!, and YES the code looks like it was wrote by a 5 year old, yes I do not care, it works :)
 (probably very buggy)
 
 # Preview/how it works
